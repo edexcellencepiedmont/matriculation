@@ -1,4 +1,4 @@
-# 2025 University ranking sources
+# 2025 University Rankings
 
 https://www.usnews.com/best-colleges/rankings/national-universities?myCollege=national-universities&_sort=myCollege&_sortDirection=asc
 
