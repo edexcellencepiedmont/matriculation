@@ -1,0 +1,778 @@
+Position,Institution,Short name,Count,Share
+2,Harvard University,Harvard,3835,1119.72
+15,Stanford University,Stanford,2032,602.57
+17,Massachusetts Institute of Technology,MIT,2168,518.7
+35,University of Michigan,U-M,1384,373.24
+38,Yale University,Yale,1321,368.05
+39,"University of California, San Diego",UC San Diego,1178,367.84
+40,University of Pennsylvania,Penn,1248,363.72
+41,"University of California, Berkeley",UC Berkeley,1447,363.17
+42,"University of California, Los Angeles",UCLA,1326,362.74
+43,Cornell University,Cornell,1224,342.05
+44,Northwestern University,NU,1024,337.21
+45,Johns Hopkins University,JHU,1395,335.75
+48,University of Washington,UW,1449,329.23
+49,Columbia University in the City of New York,CU,1272,325.81
+55,Princeton University,Princeton,999,296.53
+56,The University of Chicago,UChicago,1105,286.93
+60,California Institute of Technology,Caltech,983,265.15
+61,Washington University in St. Louis,WUSTL,864,265.03
+62,The University of Texas at Austin,UT Austin,879,264.64
+63,"University of California, San Francisco",UCSF,1008,255.84
+67,University of Wisconsin-Madison,UW-Madison,985,247.48
+70,New York University,NYU,846,243.79
+73,Duke University,Duke,989,236.43
+75,University of Minnesota,UMN,924,235.53
+89,University of Illinois at Urbana-Champaign,UIUC,705,203.65
+92,University of Pittsburgh,Pitt,878,192.05
+94,The Pennsylvania State University,Penn State,752,191.25
+95,University of Southern California,USC,615,187.53
+96,University of Colorado Boulder,CU-Boulder,854,187.1
+104,The University of Texas Southwestern Medical Center,UT Southwestern Medical Center,499,169.82
+109,The Ohio State University,OSU,851,168.53
+112,Emory University,Emory,636,165.37
+115,The University of North Carolina at Chapel Hill,UNC,780,163.41
+119,"University of California, Irvine",UCI,555,160.6
+122,"University of California, Santa Barbara",UCSB,544,158.54
+128,Texas A&M University,TAMU,641,154.32
+129,Purdue University,Purdue,425,153.91
+130,University of Florida,UF,799,153.67
+132,"University of California, Davis",UC Davis,614,153.27
+135,Vanderbilt University,VU,722,152.09
+141,Indiana University,IU,735,142.97
+159,"University of Maryland, College Park",UMCP,771,130.44
+162,The University of Utah,Utah,478,129.22
+170,Boston University,BU,768,124.66
+174,"Rutgers, The State University of New Jersey",RU,652,123.19
+175,Rice University,Rice,473,123.02
+180,Georgia Institute of Technology,Georgia Tech,427,119.85
+184,The University of Arizona,Arizona,612,115.7
+189,Baylor College of Medicine,BCM,462,114.39
+210,Brown University,Brown,440,105.37
+216,Michigan State University,MSU,591,102.56
+230,University of Virginia,UVA,551,97.52
+231,"University of California, Riverside",UCR,319,97.06
+243,State University of New York at Stony Brook,SUNY Stony Brook,546,91.46
+244,The University of Texas MD Anderson Cancer Center,MD Anderson,472,91.4
+248,University of Colorado Anschutz Medical Campus,CU Anschutz,414,91.09
+254,University of Rochester,UR,357,88.73
+255,Arizona State University,ASU,389,88.68
+261,North Carolina State University,NCSU,300,86.25
+272,Colorado State University,Colorado State,319,81.98
+290,The University of Georgia,UGA,277,77.28
+297,Carnegie Mellon University,CMU,329,75.9
+305,University of Massachusetts Amherst,UMass Amherst,293,74.68
+314,Virginia Polytechnic Institute and State University,Virginia Tech,227,73.23
+316,University of Cincinnati,UC,331,72.06
+327,Dartmouth College,Dartmouth,225,69.96
+328,University of Notre Dame,ND,267,69.86
+337,Oregon Health and Science University,OHSU,264,67.54
+339,The University of Iowa,UI,359,66.62
+345,Iowa State University,Iowa State,371,65.92
+346,The University of Alabama at Birmingham,UAB,315,65.63
+348,University of Connecticut,UConn,234,65.47
+357,Northeastern University,NU-2,287,62.88
+366,"University of California, Santa Cruz",UCSC,439,60.51
+371,University of Illinois at Chicago,UIC,270,59.59
+375,Case Western Reserve University,CWRU,275,57.9
+378,Florida State University,FSU,352,57.46
+386,University of Hawai'i at Manoa,UH Mānoa,459,55.78
+387,The Rockefeller University,Rockefeller,222,55.73
+389,"University at Buffalo, The State University of New York",SUNY UB,184,55.7
+393,"University of Maryland, Baltimore",UMB,206,54.82
+410,The University of Tennessee at Knoxville,UTK,292,52.72
+415,University of Massachusetts Chan Medical School,UMass Chan Medical School,243,51.75
+417,University of Delaware,UD,190,51.61
+436,The University of Texas Health Science Center at Houston,UTHealth,255,48.59
+439,The City University of New York,CUNY,217,48.33
+447,University of Houston,UH,210,47.59
+452,Albert Einstein College of Medicine,Einstein,213,46.85
+454,The University of Oklahoma,OU,265,46.6
+464,University of Miami,UM,258,44.26
+473,University of Kentucky,UK,154,42.65
+474,The University of Kansas,KU,266,42.63
+483,Oregon State University,Oregon State,188,41.8
+485,Tufts University,Tufts,323,41.55
+486,University of Oregon,UO,166,41.5
+500,University of Nebraska-Lincoln,UNL,161,39.78
+505,Louisiana State University,LSU,180,39.15
+509,University of Missouri,Mizzou,158,38.73
+515,University of South Carolina - Columbia,SC,130,38.05
+525,Drexel University,Drexel,130,37.21
+533,The University of Texas at Dallas,UT Dallas,151,35.69
+544,The University of New Mexico,UNM,194,34.69
+554,Brandeis University,Brandeis,114,33.58
+563,Tulane University,Tulane,134,32.56
+564,"University of Nevada, Reno",UNR,94,32.52
+588,University of South Florida,USF,139,29.96
+597,Boston College,BC,78,29.41
+601,Georgetown University,Georgetown,127,29.24
+602,Virginia Commonwealth University,VCU,121,29.15
+612,University of Pittsburgh Medical Center,UPMC,222,28.39
+625,Wayne State University,Wayne State,166,27.75
+629,The George Washington University,GW,183,27.4
+658,Thomas Jefferson University,TJU,103,25.13
+666,Medical College of Wisconsin,MCW,129,24.53
+673,University of Central Florida,UCF,96,24.2
+678,The University of Alabama,UA,146,23.78
+682,Wake Forest University,WFU,121,23.52
+698,Temple University,Temple,102,22.61
+699,Washington State University,WSU,116,22.6
+701,Lehigh University,Lehigh,54,22.52
+702,State University of New York at Albany,SUNY Albany,76,22.45
+709,Clemson University,Clemson,99,22.13
+717,Texas Tech University,TTU,125,21.77
+719,University of Texas Medical Branch,UTMB,75,21.76
+723,Utah State University,USU,74,21.55
+725,Medical University of South Carolina,MUSC,110,21.48
+727,The University of Texas Health Science Center at San Antonio,UT Health San Antonio,115,21.42
+737,Montana State University,Montana State,216,21.07
+756,University of Arkansas,UARK,76,20.14
+758,"University of Nevada, Las Vegas",UNLV,87,19.98
+765,Syracuse University,Syracuse,106,19.54
+777,Auburn University,Auburn,82,18.57
+786,San Diego State University,SDSU,75,18.03
+788,Kansas State University,K-State,111,17.95
+802,University of Nebraska Medical Center,UNMC,88,17.39
+811,University of Wyoming,University,86,17.09
+818,State University of New York at Binghamton,SUNY Binghamton,50,16.92
+825,Baylor University,Baylor,106,16.68
+829,New Jersey Institute of Technology,NJIT,197,16.37
+830,University of Vermont,UVM,82,16.34
+848,The University of Texas at San Antonio,UTSA,54,15.86
+854,Saint Louis University,SLU,76,15.72
+860,University of North Texas,UNT,70,15.59
+861,University of Louisville,UofL,58,15.56
+867,The University of Texas at Arlington,UTA,119,15.36
+870,West Virginia University,WVU,94,15.27
+875,Georgia State University,GSU,203,15.11
+897,University of Alaska Fairbanks,UAF,94,14.42
+942,Rush University,Rush,92,13.22
+961,Oklahoma State University,Oklahoma State,89,12.69
+967,"University of California, Merced",UC Merced,69,12.59
+974,The University of Akron,UAkron,22,12.47
+976,University of New Hampshire,UNH,78,12.44
+977,Augusta University,Augusta,52,12.43
+1002,University of Mississippi,Ole Miss,110,11.93
+1016,University of Rhode Island,URI,62,11.57
+1026,University of Tennessee Health Science Center,UTHSC,85,11.32
+1032,George Mason University,GMU,91,11.16
+1035,University of Idaho,University Idaho,42,11.1
+1059,State University of New York College at Buffalo,SUNY Buffalo State,62,10.54
+1060,Michigan Technological University,Michigan Tech,42,10.54
+1061,University of Wisconsin-Milwaukee,UWM,41,10.51
+1069,Florida International University,FIU,100,10.39
+1072,"University of Maryland, Baltimore County",UMBC,94,10.35
+1078,Brigham Young University,BYU,29,10.29
+1080,Kent State University,Kent State,48,10.27
+1091,State University of New York Upstate Medical University,SUNY Upstate Medical University,45,10.05
+1093,University of Arkansas for Medical Sciences,UAMS,55,10.04
+1134,Missouri University of Science and Technology,MST,23,9.5
+1178,Uniformed Services University of the Health Sciences,Uniformed,47,8.95
+1182,University of Denver,University Denver,37,8.91
+1187,University of Alabama in Huntsville,UAH,55,8.85
+1193,"California State University, Northridge",CSUN,30,8.82
+1197,Stevens Institute of Technology,Stevens,19,8.8
+1200,Bowling Green State University,BGSU,24,8.78
+1205,Northern Arizona University,NAU,46,8.72
+1223,The University of Toledo,UT,43,8.47
+1225,Loyola University Chicago,LUC,55,8.45
+1231,Western Michigan University,WMU,17,8.37
+1233,Boise State University,Boise State,39,8.35
+1252,University of Southern Mississippi,USM,41,8.17
+1260,Mississippi State University,Mississippi State,70,8.11
+1286,The University of Texas at El Paso,UTEP,38,7.76
+1322,Ohio University,Ohio,54,7.35
+1331,Portland State University,PSU,26,7.24
+1334,Rochester Institute of Technology,RIT,38,7.18
+1336,Old Dominion University,ODU,70,7.12
+1354,University of North Carolina at Charlotte,UNC Charlotte,31,6.77
+1355,The College of William & Mary,W&M,45,6.77
+1380,University of Puerto Rico,UPR,97,6.52
+1388,University of Massachusetts Lowell,UMass Lowell,37,6.44
+1398,University of Maryland Medical System,UMMS,49,6.36
+1427,The University of Maine,UMaine,47,6.14
+1443,Claremont Colleges,Claremont,20,6.02
+1447,University of Montana,UMT,31,5.98
+1465,University of South Dakota,USD,27,5.8
+1490,Florida Atlantic University,FAU,47,5.63
+1495,Marquette University,Marquette,19,5.6
+1501,Chapman University,Chapman,27,5.55
+1513,"The University of Miami Miller School of Medicine, UM",University Miami,17,5.47
+1524,University of North Carolina at Greensboro,University North,16,5.38
+1543,Western Washington University,WWU,18,5.29
+1566,The University of Memphis,U of M,16,5.11
+1574,New Mexico State University,NMSU,181,5.08
+1575,University of Colorado Denver,CU Denver,40,5.08
+1589,Wesleyan University,Wesleyan,34,4.97
+1599,Rowan University,Rowan,31,4.91
+1604,University of Missouri-Kansas City,UMKC,59,4.88
+1606,Southern Methodist University,SMU,77,4.88
+1654,SUNY Downstate Health Sciences University,SUNY Downstate,37,4.54
+1686,Howard University,Howard,61,4.38
+1689,Illinois State University,Illinois State,9,4.36
+1698,Oakland University,Oakland,14,4.33
+1699,Florida Institute of Technology,Florida Tech,95,4.33
+1722,North Dakota State University,NDSU,15,4.18
+1747,Barnard College,Barnard,12,4.06
+1787,Jackson State University,Jackson State,28,3.83
+1788,Clarkson University,Clarkson,12,3.82
+1789,Texas State University - San Marcos,Texas State,35,3.82
+1795,Illinois Institute of Technology,IIT,28,3.79
+1811,Temple University Health System,TUHS,39,3.75
+1816,Florida Agricultural and Mechanical University,FAMU,23,3.73
+1826,Amherst College,Amherst,17,3.69
+1827,Texas Tech University Health Sciences Center,TTUHSC,21,3.69
+1832,East Carolina University,ECU,26,3.68
+1846,Northern Illinois University,NIU,71,3.62
+1850,University of Massachusetts Boston,UMass Boston,19,3.61
+1916,St. John's University,St,7,3.33
+1925,Miami University,Miami,12,3.3
+1951,University of Richmond,University Richmond,21,3.22
+1965,San Francisco State University,SF State,38,3.18
+1969,University of North Carolina at Wilmington,UNCW,14,3.17
+2022,Central Michigan University,Central,35,2.98
+2049,Loma Linda University,LLU,19,2.9
+2055,American University,American,25,2.87
+2066,Catholic University of America,CUA,98,2.85
+2067,Wellesley College,Wellesley,15,2.84
+2072,Creighton University,Creighton,44,2.83
+2080,Montclair State University,Montclair State,10,2.81
+2096,Embry-Riddle Aeronautical University,ERAU,30,2.75
+2135,University of North Dakota,UND,25,2.67
+2147,Villanova University,Villanova,17,2.65
+2157,"Southern Illinois University, Carbondale",SIU,16,2.61
+2162,"California State University, Long Beach",CSULB,24,2.6
+2170,San Jose State University,SJSU,39,2.58
+2174,University of Colorado Health,UCHealth,34,2.57
+2184,Williams College,Williams,14,2.56
+2223,Middle Tennessee State University,MTSU,10,2.47
+2257,University of Louisiana at Lafayette,UL Lafayette,23,2.41
+2267,Colby College,Colby,11,2.39
+2292,Fordham University,Fordham,6,2.33
+2298,State University of New York College of Environmental Science and Forestry,SUNY-ESF,19,2.32
+2310,Western University of Health Sciences,WesternU,9,2.29
+2321,Furman University,Furman,5,2.27
+2326,University of San Francisco,USF-2,19,2.26
+2329,Colgate University,Colgate,8,2.25
+2340,Texas Christian University,TCU,6,2.23
+2348,Towson University,Towson,5,2.21
+2361,University of Massachusetts Dartmouth,UMass Dartmouth,14,2.19
+2387,South Dakota State University,South,12,2.16
+2397,University of South Alabama,University South,28,2.13
+2431,University of Indianapolis,UIndy,4,2.07
+2432,California Polytechnic State University,Cal Poly,27,2.07
+2454,Hofstra University,Hofstra,46,2.03
+2457,Wichita State University,Wichita State,11,2.02
+2473,Mount Holyoke College,MHC,8,2.0
+2475,Missouri State University,Missouri State,4,1.99
+2503,Louisiana Tech University,Louisiana,65,1.94
+2511,The University of Tulsa,University Tulsa,6,1.93
+2516,St. Mary's College of Maryland,SMCM,5,1.93
+2534,Trinity University,Trinity,3,1.91
+2543,College of Charleston,College,20,1.9
+2563,Bowdoin College,Bowdoin,7,1.86
+2605,Reed College,Reed,10,1.8
+2625,University of Northern Colorado,University Northern,47,1.78
+2656,New York Institute of Technology,NYIT,11,1.74
+2667,Vassar College,Vassar,6,1.73
+2681,North Carolina Agricultural and Technical State University,A&T,25,1.7
+2696,Franklin and Marshall College,F&M,4,1.68
+2697,Wright State University,Wright State,8,1.68
+2704,"California State University, Los Angeles",CSULA,15,1.67
+2720,James Madison University,JMU,22,1.65
+2775,North Carolina Central University,NCCU,16,1.57
+2780,New York Medical College,NYMC,15,1.56
+2814,Haverford College,Haverford,9,1.52
+2822,Morgan State University,Morgan State,24,1.52
+2826,Kennesaw State University,KSU,10,1.51
+2890,University of Colorado at Colorado Springs,UCCS,4,1.45
+2934,Middlebury College,Middlebury,9,1.42
+2942,University of New Haven,University New,5,1.41
+2945,Lycoming College,Lycoming,10,1.41
+2947,"California State University, Fullerton",CSUF,10,1.41
+2962,Oberlin College,Oberlin,11,1.39
+2975,Appalachian State University,Appalachian State,21,1.37
+3001,Butler University,Butler,4,1.35
+3064,Midwestern University,MWU,9,1.29
+3105,Swarthmore College,Swarthmore,3,1.25
+3134,Southern Illinois University School of Medicine,SIUMED,6,1.22
+3142,Georgia Southern University,Georgia,8,1.22
+3197,Colorado College,CC,8,1.17
+3230,Fairleigh Dickinson University,FDU,3,1.16
+3234,"California State University, San Bernardino",CSUSB,5,1.15
+3258,Coastal Carolina University,CCU,15,1.14
+3259,Occidental College,Occidental,8,1.13
+3270,University of the Pacific,UOP,6,1.13
+3279,University of New England,UNE,7,1.12
+3280,Quinnipiac University,Quinnipiac,4,1.12
+3287,Hamilton College,Hamilton,3,1.11
+3316,Georgia College and State University,GCSU,2,1.09
+3347,Eastern Illinois University,EIU,3,1.07
+3376,University of Nebraska at Omaha,University Nebraska,9,1.05
+3438,Walla Walla University,WWU-2,1,1.0
+3438,Pittsburg State University,Pittsburg State,1,1.0
+3469,Lafayette College,Lafayette,7,0.98
+3472,Bryn Mawr College,Bryn,4,0.98
+3479,University of Houston-Clear Lake,UHCL,3,0.98
+3484,Santa Clara University,Santa,4,0.97
+3535,University of Tennessee System,University Tennessee,3,0.94
+3551,American College of Surgeons,ACS,5,0.93
+3593,Hope College,Hope,5,0.9
+3600,Calvin University,Calvin,3,0.9
+3609,Xavier University of Louisiana,XULA,8,0.89
+3612,Sam Houston State University,SHSU,3,0.89
+3630,Hawaii Pacific University,HPU,4,0.88
+3631,University of Guam,UOG,6,0.88
+3632,University of Hawai'i at Hilo,UH Hilo,8,0.88
+3688,Northeast Ohio Medical University,NEOMED,6,0.85
+3711,St. Olaf College,St-2,5,0.84
+3715,Macalester College,Macalester,5,0.84
+3733,Moravian University,Moravian,1,0.83
+3750,Roger Williams University,RWU,6,0.82
+3753,Juniata College,Juniata,3,0.82
+3803,Cleveland State University,Cleveland State,3,0.8
+3809,University of Missouri-St. Louis,UMSL,9,0.8
+3876,ICAP at Columbia University,ICAP,2,0.75
+3906,Bucknell University,Bucknell,8,0.74
+3940,"California State Polytechnic University, Humboldt",Cal Poly Humboldt,5,0.72
+3957,Tennessee State University,Tennessee State,9,0.71
+3969,Salus University,Salus,1,0.71
+3970,Union College,Union,8,0.71
+4034,Valparaiso University,Valparaiso,20,0.68
+4052,Indiana State University,Indiana State,6,0.67
+4061,Montana Tech of the University of Montana,Montana Tech,4,0.67
+4110,Denison University,Denison,5,0.65
+4120,University of New Orleans,UNO,5,0.65
+4137,Davidson College,Davidson,3,0.64
+4144,St. Mary's University,St-3,1,0.64
+4158,University of West Florida,UWF,9,0.63
+4162,University of North Florida,UNF,5,0.63
+4202,Roosevelt University,Roosevelt,6,0.62
+4213,Duquesne University,Duquesne,6,0.61
+4215,Hamline University,Hamline,3,0.61
+4218,Sarah Lawrence College,Sarah,3,0.61
+4230,The University of Scranton,University Scranton,3,0.6
+4282,Seattle University,Seattle,3,0.59
+4285,Bates College,Bates,4,0.59
+4314,"California State University, San Marcos",CSUSM,5,0.58
+4329,Utah Valley University,UVU,4,0.57
+4330,Trinity College,Trinity-2,4,0.57
+4333,Grand Valley State University,GVSU,6,0.57
+4358,High Point University,High,3,0.57
+4373,Andrews University,Andrews,3,0.56
+4401,University of California Agriculture and Natural Resources,UCANR,2,0.55
+4401,Allegheny College,Allegheny,2,0.55
+4402,Smith College,Smith,7,0.55
+4403,Southern Connecticut State University,SCSU,6,0.55
+4436,Kenyon College,Kenyon,6,0.54
+4444,University of Health Sciences and Pharmacy in St. Louis,UHSP,8,0.54
+4458,Albany State University,Albany State,2,0.53
+4460,Fisk University,Fisk,147,0.53
+4463,Providence College,Providence,6,0.53
+4493,Weber State University,Weber State,7,0.52
+4494,Randolph-Macon College,Randolph,3,0.52
+4515,Manhattan University,Manhattan,2,0.52
+4515,Saint Mary's College Notre Dame,Saint,3,0.52
+4554,Carleton College,Carleton,4,0.5
+4571,Lawrence Technological University,LTU,3,0.5
+4571,Ithaca College,Ithaca,2,0.5
+4571,Framingham State University,Framingham State,1,0.5
+4571,State University of New York at Cortland,SUNY Cortland,1,0.5
+4571,Saint Vincent College,SVC,1,0.5
+4571,Texas A&M University System,Texas,1,0.5
+4571,Rider University,Rider,1,0.5
+4571,Southern California University of Health Sciences,SCU,1,0.5
+4572,University of Arkansas at Little Rock,UALR,3,0.5
+4577,Rosalind Franklin University of Medicine and Science,RFUMS,6,0.5
+4626,State University of New York at Oneonta,SUNY Oneonta,3,0.48
+4635,University of Wisconsin Oshkosh,UW Oshkosh,3,0.48
+4639,University of North Texas at Dallas,UNT Dallas,3,0.48
+4639,State University of New York at New Paltz,SUNY New Paltz,3,0.48
+4641,University of Dayton,University Dayton,5,0.48
+4652,University of Texas Health Science Center at Tyler,UTHSCT,3,0.47
+4652,American College of Medical Toxicology,ACMT,1,0.47
+4675,The University of Texas at Tyler,University Texas,5,0.47
+4694,Meharry Medical College,Meharry,7,0.46
+4713,Suffolk University,Suffolk,2,0.46
+4729,Wayne State College,WSC,3,0.45
+4745,East Tennessee State University,ETSU,5,0.45
+4754,Stockton University,Stockton,1,0.44
+4783,Kentucky State University,KSU-2,1,0.44
+4802,Fairfield University,Fairfield,7,0.43
+4829,Bard College,Bard,3,0.42
+4844,Minerva University,Minerva,2,0.42
+4844,Lake Superior State University,Lake,2,0.42
+4847,Worcester State University,Worcester State,6,0.42
+4871,State University of New York at Brockport,SUNY Brockport,14,0.41
+4875,University of Alaska Anchorage,UAA,8,0.41
+4902,University of Portland,University Portland,2,0.4
+4913,State University of New York College of Optometry,SUNY College of Optometry,2,0.4
+4928,"California State Polytechnic University, Pomona",California State,6,0.39
+4931,Drury University,Drury,2,0.39
+4954,"California State University, Fresno",Fresno State,38,0.39
+4968,University of Texas Rio Grande Valley,UTRGV,13,0.38
+4977,American College of Radiology,ACR,14,0.38
+4988,Delaware State University,DSU,2,0.38
+5008,Central Connecticut State University,CCSU,2,0.38
+5012,Florida Gulf Coast University,FGCU,6,0.37
+5015,"California State University, East Bay",CSUEB,20,0.37
+5049,Columbia University Mailman School of Public Health,Columbia,4,0.37
+5083,"Minnesota State University, Mankato",Minnesota State,4,0.36
+5091,College of the Holy Cross,Holy Cross,2,0.36
+5093,Clark University,Clark,3,0.36
+5102,Touro College and University System,Touro,4,0.35
+5122,Nova Southeastern University,Nova,21,0.35
+5128,Sacred Heart University,Sacred,3,0.35
+5168,University of Hawaii System,UH-2,3,0.34
+5183,Loyola Marymount University,LMU,3,0.34
+5216,Washington and Lee University,Washington,1,0.33
+5216,University of Nebraska at Kearney,UNK,1,0.33
+5216,University of Mount Union,University Mount,1,0.33
+5222,Marshall University,Marshall,6,0.33
+5247,Fort Lewis College,Fort,7,0.33
+5284,University of San Diego,University San,2,0.32
+5309,Gonzaga University,Gonzaga,2,0.32
+5317,Texas Southern University,TSU,4,0.32
+5351,University of Central Arkansas,UCA,2,0.31
+5360,University Health System,University System,1,0.31
+5383,Winona State University,Winona State,3,0.3
+5407,Wentworth Institute of Technology,WIT,2,0.3
+5414,University of Maryland Eastern Shore,UMES,4,0.3
+5431,Edward Via College of Osteopathic Medicine,VCOM,2,0.3
+5434,Southern Oregon University,SOU,2,0.3
+5445,DePaul University,DePaul,5,0.29
+5459,Morehead State University,Morehead State,2,0.29
+5480,University of Southern Maine,USM-2,6,0.29
+5484,Lamar University,LU,6,0.29
+5498,Yeshiva University,YU,3,0.29
+5548,The University of Tennessee at Chattanooga,UTC,2,0.28
+5570,Ponce Health Sciences University,PHSU,3,0.27
+5589,University of Wisconsin-Eau Claire,UW-Eau Claire,3,0.27
+5610,Idaho State University,ISU,16,0.27
+5611,University of Northern Iowa,UNI,1,0.27
+5650,University of Louisiana at Monroe,ULM,14,0.26
+5663,Cooper University Health Care,Cooper,6,0.26
+5668,Mercer University,Mercer,7,0.26
+5685,Westmont College,Westmont,37,0.26
+5715,Manhattan College,MC,4,0.25
+5726,Inter American University of Puerto Rico,UIPR,1,0.25
+5726,University of Bridgeport,University Bridgeport,1,0.25
+5726,Centre College,Centre,1,0.25
+5726,State University of New York at Fredonia,SUNY Fredonia,1,0.25
+5726,Westminster College,Westminster,1,0.25
+5726,Angelo State University,Angelo State,1,0.25
+5726,State University of New York,SUNY,1,0.25
+5726,Hobart and William Smith Colleges,Hobart,1,0.25
+5726,University of Wisconsin-Platteville,UW-Platteville,1,0.25
+5726,Palmer College of Chiropractic,Palmer,1,0.25
+5782,Southeastern Louisiana University,SLU,2,0.24
+5791,Dominican University of California,Dominican,4,0.24
+5802,Arkansas Tech University,Arkansas Tech,3,0.24
+5833,Spelman College,Spelman,2,0.23
+5871,Elon University,Elon,2,0.23
+5888,Marshall B. Ketchum University,MBKU,3,0.23
+5901,University of Wisconsin-Whitewater,University Wisconsin,2,0.23
+5906,Western New England University,WNE,2,0.22
+5921,Knox College,Knox,1,0.22
+5921,West Texas A and M University,WTAMU,1,0.22
+5942,Eastern Michigan University,EMU,2,0.22
+5981,Alabama State University,Alabama State,7,0.21
+5982,University of Minnesota Medical Center,University Minnesota,3,0.21
+5984,Lipscomb University,Lipscomb,2,0.21
+5995,University of the Virgin Islands,UVI,13,0.21
+6006,Philadelphia College of Osteopathic Medicine,PCOM,2,0.21
+6032,Bethel University,Bethel,35,0.21
+6073,Pacific University Oregon,Pacific,2,0.2
+6083,A.T. Still University of Health Sciences,ATSU,2,0.2
+6087,State University of New York at Geneseo,SUNY Geneseo,1,0.2
+6087,Alabama College of Osteopathic Medicine,Alabama,1,0.2
+6087,Washburn University,Washburn,1,0.2
+6087,Rocky Vista University,RVU,1,0.2
+6087,Pasadena City College,PCC,1,0.2
+6087,Young Harris College,YHC,1,0.2
+6087,Bridgewater College,Bridgewater,1,0.2
+6087,Grinnell College,Grinnell,1,0.2
+6087,Ross University School of Medicine,RUSM,1,0.2
+6139,Chicago State University,Chicago State,20,0.19
+6178,William Paterson University,WPUNJ,2,0.19
+6219,Mount St. Mary's University,MSMU,2,0.18
+6226,Elizabeth City State University,ECSU,1,0.18
+6226,College of the Atlantic,COA,1,0.18
+6230,Pepperdine University,Pepperdine,3,0.18
+6240,Christopher Newport University,CNU,15,0.18
+6259,Southern University and A&M College,SUBR,4,0.18
+6268,Skidmore College,Skidmore,2,0.18
+6275,Norfolk State University,NSU,20,0.18
+6276,University of Arkansas at Pine Bluff,UAPB,2,0.18
+6291,University of Maryland University College,UMUC,2,0.18
+6313,Idaho College of Osteopathic Medicine,ICOM,2,0.17
+6315,Ball State University,BSU,5,0.17
+6327,California Lutheran University,CLU,2,0.17
+6330,Hendrix College,Hendrix,2,0.17
+6337,College of Menominee Nation,CMN,3,0.17
+6340,Springfield College,Springfield,2,0.17
+6364,St. Edward’s University,SEU,2,0.17
+6375,Western Carolina University,Catamount,1,0.17
+6375,University of Mary Washington,UMW,1,0.17
+6375,Caldwell University,Caldwell,1,0.17
+6375,Muskingum University,Muskingum,1,0.17
+6375,Maryville College,Maryville College,1,0.17
+6375,Florida Polytechnic University,FPU,1,0.17
+6375,State University of New York at Purchase,SUNY Purchase,1,0.17
+6375,University of Medicine and Health Sciences,UMHS,1,0.17
+6375,Lewis & Clark College,L&C,1,0.17
+6377,Stephen F. Austin State University,SFA,3,0.17
+6404,Hood College,Hood College,2,0.16
+6453,Olin College of Engineering,Olin College,1,0.16
+6517,University of Tampa,Tampa,3,0.15
+6547,Howard University Hospital,HUH,2,0.15
+6563,University of Puget Sound,UPS,2,0.15
+6574,Fond du Lac Tribal and Community College,Fond,1,0.15
+6585,Charles R. Drew University of Medicine and Science,CDU,4,0.14
+6599,Black Hills State University,BHSU,5,0.14
+6611,Franklin Pierce University,FPU,1,0.14
+6611,Murray State University,Murray State,1,0.14
+6611,Snow College,Snow College,1,0.14
+6611,Lynn University,Lynn,1,0.14
+6611,Central New Mexico Community College,CNM,1,0.14
+6611,City College of San Francisco,CCSF,1,0.14
+6611,Norwich University,Norwich,1,0.14
+6611,University of South Carolina - Aiken,USC Aiken,1,0.14
+6611,Chemeketa Community College,Chemeketa,1,0.14
+6611,Butte College,Butte,1,0.14
+6611,Roanoke College,Roanoke,1,0.14
+6611,University of Southern Indiana,University Southern,1,0.14
+6611,Albright College,Albright,1,0.14
+6649,Rhodes College,Rhodes,3,0.14
+6722,Siena College,Siena,6,0.13
+6784,Whitman College,Whitman,1,0.12
+6784,Truman State University,Truman State,1,0.12
+6784,Columbia College Chicago,Columbia College,1,0.12
+6784,Southern Utah University,SUU,1,0.12
+6784,California Health Sciences University,CHSU,1,0.12
+6784,Eastern Washington University,EWU,1,0.12
+6784,St. Lawrence University,SLU,1,0.12
+6784,Liberty University,Liberty,1,0.12
+6784,Nicholls State University,Nicholls State,1,0.12
+6786,West Chester University of Pennsylvania,WCU,3,0.12
+6894,Wilkes University,Wilkes,1,0.12
+6899,University of Wisconsin - Green Bay,UWGB,3,0.12
+6908,Dickinson State University,Dickinson State,2,0.12
+6952,Chatham University,Chatham,2,0.11
+6978,Pacific Lutheran University,PLU,1,0.11
+6978,Regis University,Regis,1,0.11
+6978,Cullen College of Engineering,Cullen,1,0.11
+6978,Indiana University of Pennsylvania,IUP,1,0.11
+6978,Saint Michael's College,SMC,1,0.11
+6978,Des Moines University,DMU,1,0.11
+6978,South Florida State College,SFSC,1,0.11
+6978,Oral Roberts University,ORU,1,0.11
+7034,Mount St. Joseph University,MSJ,1,0.11
+7050,Massachusetts College of Pharmacy and Health Sciences,MCPHS,5,0.11
+7072,The University of Tennessee Space Institute,UTSI,2,0.1
+7139,Oklahoma State University Medical Center,OSUMC,3,0.1
+7145,Converse College,Converse College,1,0.1
+7145,University of West Alabama,UWA,1,0.1
+7145,Georgia Southwestern State University,GSW,1,0.1
+7145,Northern Kentucky University,NKU,1,0.1
+7145,American College of Chest Physicians,CHEST,1,0.1
+7145,Virginia University of Integrative Medicine,VUIM,1,0.1
+7145,University of Wisconsin-La Crosse,UW-L,1,0.1
+7145,Elizabethtown College,E-town,1,0.1
+7145,Northwest Indian College,Northwest,1,0.1
+7145,Stonehill College,Stonehill,1,0.1
+7145,Ashland University,Ashland,1,0.1
+7145,Long Island University,LIU,1,0.1
+7145,Frostburg State University,Frostburg State,1,0.1
+7145,Marian University,Marian,1,0.1
+7145,Rockhurst University,Rockhurst,1,0.1
+7146,Saint Joseph's University,SJU,3,0.1
+7162,University of Kansas Health System,University Kansas,2,0.1
+7190,Corban University,Corban,2,0.1
+7213,University of West Georgia,UWG,2,0.09
+7222,University Kidney Research Organization,UKRO,1,0.09
+7251,State University of New York at Oswego,SUNY Oswego,15,0.09
+7261,Youngstown State University,YSU,1,0.09
+7261,University of Houston–Downtown,University Houston–Downtown,1,0.09
+7261,Cedar Crest College,CCC,1,0.09
+7261,Albion College,Albion,1,0.09
+7261,University of Alaska Southeast,UAS,1,0.09
+7272,"California State University, Stanislaus",CSU Stanislaus,13,0.09
+7357,Merrimack College,Merrimack,2,0.08
+7357,Northwest Missouri State University,Northwest-2,1,0.08
+7357,University of Alaska System,University Alaska,1,0.08
+7357,California Northstate University,California-2,2,0.08
+7357,Whittier College,Whittier,1,0.08
+7357,"California State University, Bakersfield",CSU Bakersfield,1,0.08
+7357,Russell Sage College,Russell,1,0.08
+7357,Lincoln University of Missouri,Lincoln,1,0.08
+7357,Gustavus Adolphus College,Gustavus,1,0.08
+7357,University of Wisconsin-Stevens Point,University Wisconsin,1,0.08
+7357,Bemidji State University,Bemidji State,1,0.08
+7357,Western Colorado University,Western-2,1,0.08
+7357,Ohio Wesleyan University,OWU,1,0.08
+7357,Shenandoah University,Shenandoah,1,0.08
+7357,Connecticut College,Connecticut,1,0.08
+7358,Austin Peay State University,APSU,2,0.08
+7359,"California State University, Sacramento",Sacramento State,42,0.08
+7367,Arkansas State University,Arkansas State,2,0.08
+7374,"California State University, Dominguez Hills",CSUDH,4,0.08
+7375,Lake Erie College of Osteopathic Medicine,LECOM,2,0.08
+7405,"California State University, Monterey Bay",CSUMB,10,0.08
+7435,Hampton University,Hampton,27,0.08
+7448,Rhode Island College,Rhode,2,0.08
+7451,Heidelberg University,Heidelberg,8,0.08
+7456,Central Washington University,CWU,3,0.08
+7461,The College of Wooster,Wooster College,1,0.08
+7461,Morehouse College,Morehouse,1,0.08
+7461,New Jersey City University,NJCU,1,0.08
+7461,"California State University, Chico",CSU Chico,1,0.08
+7461,University of Puerto Rico at Humacao,UPRH,1,0.08
+7462,Earlham College,Earlham,2,0.08
+7504,Ellison Institute of Technology,Ellison,2,0.07
+7523,Lewis and Clark Community College,Lewis,2,0.07
+7542,College of Idaho,Idaho College,1,0.07
+7542,Rose-Hulman Institute of Technology,RHIT,1,0.07
+7542,Berry College,Berry College,1,0.07
+7542,Baker University,Baker,1,0.07
+7576,Western Connecticut State University,WCSU,2,0.07
+7605,Eckerd College,Eckerd,2,0.07
+7612,Nightingale College,Nightingale,1,0.07
+7612,Lawrence University,Lawrence,1,0.07
+7612,University of Central Oklahoma,UCO,1,0.07
+7612,Soka University of America,Soka,1,0.07
+7658,Winston-Salem State University,WSSU,1,0.06
+7688,Hanover College,Hanover,1,0.06
+7688,Alfred University,Alfred,1,0.06
+7688,Madison Area Technical College,Madison College,1,0.06
+7688,Alvernia University,Alvernia,1,0.06
+7688,Tarrant County College,TCC,1,0.06
+7688,Lake Forest College,Lake-2,1,0.06
+7751,Wheaton College - Norton,Wheaton,1,0.06
+7751,Samuel Merritt University,Samuel,1,0.06
+7751,Endicott College,Endicott,1,0.06
+7751,University Medical Center,UMC,1,0.06
+7751,University of St Thomas Houston,University St,1,0.06
+7751,Ohio Northern University,ONU,1,0.06
+7791,Purdue University Northwest,PNW,45,0.06
+7811,University of Detroit Mercy,UDM,1,0.06
+7811,Cabrillo College,Cabrillo,1,0.06
+7811,Kalamazoo College,Kalamazoo,1,0.06
+7811,Presbyterian College,Presbyterian,1,0.06
+7811,Spalding University,Spalding,1,0.06
+7825,Pace University,Pace,2,0.05
+7847,Fort Hays State University,FHSU,2,0.05
+7863,South Carolina State University,SC State,1,0.05
+7863,Sul Ross State University,SRSU,1,0.05
+7863,Eastern Oregon University,Eastern,1,0.05
+7863,Westminster University,Westminster-2,1,0.05
+7894,Clark Atlanta University,CAU,18,0.05
+7915,Dominican University,Dominican-2,1,0.05
+7915,Ripon College,Ripon,1,0.05
+7915,Jacksonville State University,JSU,1,0.05
+7915,Ursuline College,Ursuline,1,0.05
+8000,Slippery Rock University,Slippery,1,0.05
+8000,Goshen College,Goshen,1,0.05
+8000,Northwestern College,NWC,1,0.05
+8001,University of Wisconsin-River Falls,UWRF,4,0.05
+8008,Bryant University,Bryant,2,0.04
+8043,Kansas City University,Kansas,1,0.04
+8066,Touro College of Osteopathic Medicine,TouroCOM,2,0.04
+8072,University of Missouri System,University Missouri,1,0.04
+8072,Quinniplac University,Quinniplac,1,0.04
+8088,Washington and Jefferson College,W&J,3,0.04
+8125,Louisiana State University in Shreveport,LSUS,1,0.04
+8125,McDaniel College,McDaniel,1,0.04
+8156,Abilene Christian University,Abilene,5,0.04
+8176,Dordt University,Dordt,3,0.04
+8186,Roseman University of Health Sciences,RUHS,3,0.04
+8229,Lincoln Memorial University,Lincoln-2,1,0.03
+8253,Belmont University,Belmont,2,0.03
+8253,Dickinson College,Dickinson,1,0.03
+8253,University of Central Missouri,UCM,1,0.03
+8253,Colby-Sawyer College,Colby-2,1,0.03
+8294,Central State University,Central State,1,0.03
+8294,Notre Dame of Maryland University,NDMU,1,0.03
+8312,Bowie State University,Bowie State,1,0.03
+8312,Houston Christian University,Houston,1,0.03
+8326,Samford University,Samford,1,0.03
+8326,College of Southern Nevada,CSN,1,0.03
+8336,Santa Rosa Junior College,SRJC,1,0.03
+8336,Cosumnes River College,Cosumnes,1,0.03
+8336,Northeastern State University,Northeastern State,1,0.03
+8359,Texas Woman's University,TWU,1,0.03
+8359,Wagner College,Wagner,1,0.03
+8371,Navajo Technical University,Navajo,1,0.03
+8384,California Baptist University,CBU,1,0.02
+8384,Dordt College,Dordt-2,1,0.02
+8399,University of La Verne,University La,2,0.02
+8400,Spokane Community College,SCC,2,0.02
+8402,Messiah University,Messiah,1,0.02
+8411,Concordia University Wisconsin,CUW,1,0.02
+8411,University of Findlay,University Findlay,1,0.02
+8417,University of South Carolina Upstate,University South,2,0.02
+8426,University of Vermont Health Network,University Vermont,1,0.02
+8433,Winthrop University,Winthrop,1,0.02
+8438,Marist College,Marist,2,0.02
+8441,Austin College,Austin,1,0.02
+8454,Le Moyne College,Le,1,0.02
+8454,Susquehanna University,Susquehanna,1,0.02
+8459,Albany College of Pharmacy and Health Sciences,ACPHS,1,0.02
+8459,Sewanee University of the South,Sewanee,1,0.02
+8472,Sonoma State University,SSU,2,0.02
+8487,Millersville University,Millersville,14,0.02
+8496,William Jewell College,William-2,3,0.02
+8497,Valdosta State University,Valdosta State,1,0.02
+8498,Northern Michigan University,NMU,2,0.02
+8503,William Carey University,WCU-2,1,0.02
+8522,Riverside University Health System,Riverside,1,0.02
+8522,University of Tennessee Southern,University Tennessee,1,0.02
+8537,Northeastern Illinois University,NEIU,1,0.02
+8544,University of California System,UC-2,1,0.02
+8578,University of Hawaii Maui College,UH Maui College,1,0.01
+8622,Tennessee Tech University,Tennessee,1,0.01
+8636,Concord University,Concord,1,0.01
+8641,University of Arkansas System Division of Agriculture,UAEX,1,0.01
+8643,Augustana University,Augustana,4,0.01
+8656,Muhlenberg College,Muhlenberg,2,0.01
+8658,The University of North Carolina at Asheville,UNC Asheville,13,0.01
+8658,Northern Vermont University-Lyndon,NVU-Lyndon,13,0.01
+8658,Plymouth State University,Plymouth State,13,0.01
+8658,St. Cloud State University,St-6,13,0.01
+8658,Metropolitan State University of Denver,Metropolitan State,13,0.01
+8658,Western Illinois University,WIU,13,0.01
+8674,Widener University,Widener,1,0.01
+8681,Lesley University,Lesley,1,0.01
+8693,Hampshire College,Hampshire,1,0.01
+8694,Alaska Pacific University,APU,1,0.01
+8715,University of Dallas,UD-2,1,0.01
+8720,Alabama A&M University,Alabama-2,14,0.01
+8729,St. Norbert College,SNC,1,0.01
+8775,American Public University System,APUS,1,0.01
+8795,Washington College,WC,34,0.01
+8810,Hartwick College,Hartwick,1,0.01
+8831,Hillsdale College,Hillsdale,1,0.0
+8839,Bridgewater State University,Bridgewater State,1,0.0
+8842,Colorado Mesa University,Colorado,1,0.0
+8870,Barry University,Barry,1,0.0
+8877,Delaware Technical Community College,Delaware,1,0.0
+8877,Wesley College,Wesley,1,0.0
+8887,Canisius College,Canisius,1,0.0
+8922,Langston University,Langston,1,0.0
+8934,Ana G. Méndez University System,SUAGM,13,0.0
+8942,Tougaloo College,Tougaloo,2,0.0
+8945,Southern Nazarene University,SNU,1,0.0
+8947,The College of Saint Rose,College Saint,1,0.0
+8966,West Liberty University,WLU,1,0.0
+8968,Virginia State University,VSU,12,0.0
+8978,Ottawa University,Ottawa,2,0.0
+8988,California State University System,CSU,1,0.0
+8996,Tuskegee University,Tuskegee,13,0.0
+9006,Eastern Kentucky University,EKU,1,0.0
+9007,Eastern Mennonite University,Eastern-2,1,0.0
+9008,State College of Florida,SCF,1,0.0
+9013,Valley City State University,VCSU,1,0.0
+9015,Simmons University,Simmons,1,0.0
+9015,Walden University,Walden,1,0.0
+9030,Xavier University,Xavier,1,0.0
