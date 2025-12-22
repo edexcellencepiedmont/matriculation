@@ -1,0 +1,102 @@
+Rank,University Incubator,Founder Count,Company Count,Capital Raised,Change vs 2024,Institution,Short name
+1,"University of California, Berkeley","1,804","1,650",$69.0B,0,University of California-Berkeley,UC Berkeley
+2,Stanford University,"1,519","1,380",$102.2B,0,Stanford University,Stanford
+3,Harvard University,"1,355","1,237",$61.6B,0,Harvard University,Harvard
+4,University of Pennsylvania,"1,206","1,113",$120.4B,1,University of Pennsylvania,Penn
+5,Massachusetts Institute of Technology (MIT),"1,131","1,019",$69.8B,-1,Massachusetts Institute of Technology,MIT
+6,Cornell University,944,903,$42.8B,0,Cornell University,Cornell
+7,Tel Aviv University,865,736,$30.0B,0,Tel Aviv University,TAU
+8,"University of Texas, Austin",850,774,$24.0B,1,University of Texas at Austin,UT Austin
+9,"University of Michigan, Ann Arbor",845,787,$30.2B,-1,University of Michigan - Ann Arbor,U-M
+10,Technion – Israel Institute of Technology,783,671,$26.7B,3,Technion - Israel Institute of Technology,Technion
+11,"University of Illinois, Urbana- Champaign",751,691,$26.6B,-1,University of Illinois at Urbana-Champaign,UIUC
+12,Yale University,710,665,$33.8B,-1,Yale University,Yale
+13,"University of California, Los Angeles (UCLA)",679,658,$17.0B,-1,University of California-Los Angeles,UCLA
+14,Columbia University,671,634,$19.0B,1,Columbia University,Columbia
+15,Princeton University,656,614,$27.1B,-1,Princeton University,Princeton
+16,University of Southern California (USC),644,595,$32.8B,0,University of Southern California,USC
+17,University of Toronto,643,587,$75.6B,10,University of Toronto,U of T
+18,University of Waterloo,639,527,$14.1B,4,University of Waterloo,Waterloo
+19,"Indian Institute of Technology, Bombay",627,490,$20.2B,6,Indian Institute of Technology Bombay, IIT Bombay
+20,Duke University,625,599,$25.2B,-3,Duke University,Duke
+21,Northwestern University,588,545,$22.6B,-2,Northwestern University,NU
+22,McGill University,586,536,$21.0B,1,McGill University Canada,McGill
+23,New York University,584,556,$16.2B,-3,New York University,NYU
+24,Brown University,547,511,$33.5B,-6,Brown University,Brown
+25,Tsinghua University,545,512,$37.3B,5,Tsinghua University,Tsinghua
+26,"Indian Institute of Technology, Delhi",540,462,$24.7B,12,Indian Institute of Technology Delhi, IIT Delhi
+27,"University of Wisconsin, Madison",526,483,$12.8B,-6,University of Wisconsin-Madison,UW-Madison
+28,Carnegie Mellon University,499,457,$15.6B,-4,Carnegie Mellon University,CMU
+29,Brigham Young University,491,408,$8.9B,-3,Brigham Young University,BYU
+30,Hebrew University,466,413,$15.1B,-1,Hebrew University of Jerusalem,HUJI
+31,"University of Virginia, Charlottesville",460,439,$12.6B,1,University of Virginia,UVA
+32,"University of Washington, Seattle",454,419,$73.3B,-4,"University of Washington, Seattle",UW
+33,Georgia Institute of Technology,452,403,$12.0B,6,Georgia Institute of Technology,Georgia Tech
+34,Pennsylvania State University,451,425,$12.7B,-1,Pennsylvania State University,Penn State
+35,Dartmouth College,439,410,$20.4B,-4,Dartmouth College,Dartmouth
+36,"University of Maryland, College Park",435,417,$11.3B,1,University of Maryland-College Park,UMCP
+37,"University of California, San Diego",428,409,$12.3B,-3,University of California-San Diego,UC San Diego
+38,Boston University,423,408,$16.7B,-4,Boston University,BU
+39,"University of Colorado, Boulder",412,398,$9.4B,-5,University of Colorado Boulder,CU Boulder
+40,University of Western Ontario,407,373,$5.9B,3,University of Western Ontario,UWO
+41,"University of North Carolina, Chapel Hill",401,369,$6.4B,7,University of North Carolina at Chapel Hill,UNC
+42,Purdue University,385,361,$9.3B,-2,Purdue University,Purdue
+43,National University of Singapore,378,329,$8.9B,8,National University of Singapore,NUS
+44,University of British Columbia,375,333,$5.6B,-2,University of British Columbia,UBC
+45,Georgetown University,368,361,$17.3B,-4,Georgetown University,Georgetown
+46,"Indian Institute of Technology, Madras",361,321,$12.0B,14,Indian Institute of Technology Madras,IIT Madras
+T47,Reichman University,357,303,$9.0B,-3,Reichman University,Reichman
+T47,"Indian Institute of Technology, Kharagpur",357,303,$16.3B,6,Indian Institute of Technology Kharagpur, IIT Kharagpur
+49,"Indian Institute of Technology, Kanpur",337,289,$16.3B,8,Indian Institute of Technology Kanpur,IIT Kanpur
+50,University of Oxford,332,318,$12.1B,-2,University of Oxford,Oxford
+51,"University of Florida, Gainesville",331,309,$17.0B,-5,University of Florida,UF
+52,Ben Gurion University,329,299,$9.5B,-2,Ben-Gurion University of the Negev,BGU
+53,Johns Hopkins University,323,301,$10.6B,9,Johns Hopkins University,JHU
+T54,Peking University,318,301,$19.3B,17,Peking University,PKU
+T54,University of Cambridge,318,306,$14.7B,1,University of Cambridge,Cambridge
+56,University of Chicago,313,291,$14.3B,11,University of Chicago,UChicago
+57,"Indiana University, Bloomington",308,296,$7.4B,-12,Indiana University - Bloomington,IU
+58,"Arizona State University, Tempe",304,293,$6.2B,1,Arizona State University,ASU
+59,Northeastern University,303,284,$3.8B,-1,Northeastern University,NEU
+60,Washington University in St. Louis,301,277,$14.2B,3,Washington University in St. Louis,WUSTL
+61,"University of California, Santa Barbara",296,289,$4.9B,-14,University of California-Santa Barbara,UCSB
+62,"University of California, Davis",294,283,$6.2B,-8,University of California-Davis,UC Davis
+63,Vanderbilt University,292,285,$7.8B,3,Vanderbilt University,VU
+64,Ohio State University,288,272,$6.0B,-8,Ohio State University,OSU
+65,"Delhi University, India",284,271,$4.5B,10,Delhi University - India,DU
+66,University of Mumbai,280,261,$9.3B,14,University of Mumbai,Mumbai
+67,Tufts University,278,266,$8.1B,-15,Tufts University,Tufts
+68,University of Melbourne,277,253,$5.4B,15,University of Melbourne,UniMelb
+69,Seoul National University,274,237,$9.6B,11,Seoul National University,SNU
+70,Trinity College Dublin,268,249,$3.5B,-5,Trinity College Dublin,Trinity-Dublin
+71,Monash University,267,249,$3.1B,26,Monash University - Australia,Monash
+72,University of Notre Dame,263,246,$4.9B,-1,University of Notre Dame,ND
+T73,"University of Arizona, Tucson",262,247,$8.9B,0,University of Arizona - Tucson,Arizona
+T73,Boston College,262,256,$9.5B,-6,Boston College,BC
+75,"University of Minnesota, Twin Cities",254,240,$4.8B,-14,University of Minnesota,UMN
+76,Texas A & M University - College Station,253,233,$5.8B,-7,Texas A & M University - College Station,TAMU
+77,University of Massachusetts,247,244,$5.5B,-13,University of Massachusetts Amherst,UMass Amherst
+T78,Queen’s University - Canada,246,221,$7.5B,-4,Queen's University - Canada,Queens
+T78,Emory University,246,238,$7.2B,1,Emory University,Emory
+80,London School of Economics,242,236,$6.3B,8,London School of Economics and Political Science,LSE
+81,Rutgers University,239,230,$6.2B,-5,Rutgers University-New Brunswick,RU
+T82,California Polytechnic University,238,224,$6.2B,-5,California Polytechnic State University,Cal Poly
+T82,University of Sydney,238,229,$4.6B,3,University of Sydney,USYD
+84,State University of New York (SUNY),227,223,$5.0B,-14,State University of New York,SUNY
+85,Michigan State University,222,213,$3.6B,-3,Michigan State University,MSU
+86,Birla Institute of Technology and Science (BITS Pilani),221,190,$4.0B,18,Birla Institute of Technology and Science,BITS Pilani
+87,Virginia Polytechnic Institute,220,211,$4.6B,-1,Virginia Polytechnic Institute and State University,Virginia Tech
+88,California State University,214,207,$4.4B,-10,California State University,CSU
+89,Syracuse University,213,202,$3.8B,1,Syracuse University,Syracuse
+T90,"University of California, Irvine",210,202,$10.9B,-4,University of California-Irvine,UCI
+T90,George Washington University,210,202,$3.6B,-1,George Washington University,GW
+T90,Bar-Ilan University,210,197,$8.9B,0,Bar-Ilan University,BIU
+T90,Copenhagen Business School,210,189,$3.0B,7,Copenhagen Business School,CBS
+94,University of New South Wales,205,190,$9.0B,-1,University of New South Wales ( UNSW Sydney), UNSW Sydney
+95,Imperial College London,203,194,$4.1B,-3,Imperial College London,ICL
+T96,"University of Utah, Salt Lake City",195,179,$4.5B,-1,University of Utah,Utah
+T96,University College Dublin,195,185,$2.8B,-2,University College Dublin,UCD
+T98,University of Cape Town,190,169,$2.7B,10,University of Cape Town,UCT
+T98,Rensselaer Polytechnic,190,180,$5.5B,-14,Rensselaer Polytechnic Institute,RPI
+T100,York University - Canada,189,179,$2.5B,7,York University - Canada,York
+T100,University of Calgary,189,166,$3.4B,27,University of Calgary,U of C
